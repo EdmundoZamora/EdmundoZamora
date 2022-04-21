@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdmundoZamora
-- 👀 I’m interested in enviromental conservation and climate change
-- 🌱 I’m currently learning animal population monitoring from acoustic data
-- 💞️ I’m looking to collaborate on solutions for education outreach for climate change 
+- 👀 I’m interested in enviromental and biodiversity conservation 
+- 🌱 I’m currently learning animal population monitoring from acoustic data.
+- 💞️ I’m looking to collaborate on solutions for conservation methods
 - 📫 How to reach me [edzamora@ucsd.edu, edmundo.j.zamora@gmail.com]
 
 <!---
